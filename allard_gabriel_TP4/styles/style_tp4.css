@@ -1,0 +1,47 @@
+
+
+html {
+
+    background-color: coral;
+
+
+}
+
+body {
+
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:  black;
+
+
+}
+
+#principal {
+
+    size: 80;
+    text-align: center;
+
+
+
+}
+title,img {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+}
+
+#La_boutique {
+
+    color: rgb(30, 184, 68);
+    text-decoration: underline;
+    
+
+
+}
+
+#La_boutique.hover {
+
+color: rgb(190, 26, 95);
+
+}
+
